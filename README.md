@@ -4,6 +4,6 @@ This application allows users to track their budget on and off-line and will syn
 
 Click the link for the deployed application: https://fathomless-bastion-94027.herokuapp.com/
 
-<img src="/images/screenshot.jpg" alt="Budget Tracker Display Screen" style="width:725px;height:613px;" >
+<img src="/assets/screenshot.jpg" alt="Budget Tracker Display Screen" style="width:725px;height:613px;" >
 <hr>
 
